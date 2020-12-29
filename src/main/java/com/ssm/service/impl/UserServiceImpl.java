@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.Transactional;
  * @Description TODO
  */
 @Service
-@Transactional
+//@Transactional
 public class UserServiceImpl implements UserService {
 
 //    @Autowired
